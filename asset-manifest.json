@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sevtechcode-TodoApp/static/css/main.38475ec2.chunk.css",
+    "main.js": "/sevtechcode-TodoApp/static/js/main.d339d487.chunk.js",
+    "main.js.map": "/sevtechcode-TodoApp/static/js/main.d339d487.chunk.js.map",
+    "runtime-main.js": "/sevtechcode-TodoApp/static/js/runtime-main.a030b113.js",
+    "runtime-main.js.map": "/sevtechcode-TodoApp/static/js/runtime-main.a030b113.js.map",
+    "static/js/2.eac152e0.chunk.js": "/sevtechcode-TodoApp/static/js/2.eac152e0.chunk.js",
+    "static/js/2.eac152e0.chunk.js.map": "/sevtechcode-TodoApp/static/js/2.eac152e0.chunk.js.map",
+    "static/js/3.0367d424.chunk.js": "/sevtechcode-TodoApp/static/js/3.0367d424.chunk.js",
+    "static/js/3.0367d424.chunk.js.map": "/sevtechcode-TodoApp/static/js/3.0367d424.chunk.js.map",
+    "index.html": "/sevtechcode-TodoApp/index.html",
+    "static/css/main.38475ec2.chunk.css.map": "/sevtechcode-TodoApp/static/css/main.38475ec2.chunk.css.map",
+    "static/js/2.eac152e0.chunk.js.LICENSE.txt": "/sevtechcode-TodoApp/static/js/2.eac152e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a030b113.js",
+    "static/js/2.eac152e0.chunk.js",
+    "static/css/main.38475ec2.chunk.css",
+    "static/js/main.d339d487.chunk.js"
+  ]
+}
